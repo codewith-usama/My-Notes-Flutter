@@ -58,7 +58,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             data[index].title.toString(),
                           style: const TextStyle(
                             fontSize: 20.0,
-                            fontWeight: FontWeight.w500
+                            fontWeight: FontWeight.w500,
                           ),
                         ),
                         const Spacer(),
